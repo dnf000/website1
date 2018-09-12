@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			 
+             
+             @import url('https://fonts.googleapis.com/css?family=Kosugi+Maru|Roboto+Condensed');
+		
+        
+        	body{    
+            	font-family: 'Kosugi Maru', sans-serif;
+                font-size: 120%;
+            	background-color: skyblue;
+                color: #e8edf3; 
+            }
+        
+        
+        	h1, h2{
+            
+            	color: #28264b;
+            
+            }
+            
+            ul {
+            font-style: italic;
+            
+            }
+            
+            img{
+            
+            border:5px;
+            border: 6px solid;
+            border-radius: 20%;
+            border-color:yellow;
+            display:block;
+            }
+            
+       
+@-webkit-keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+
+
+@keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+            
+            a:hover { 
+    background-color: yellow;
+            #Content{
+            
+            margin: 10px 100px;
+            
+            
+            
+            }
+            
+
+}
+            
+            
+            
+             
+        </style>
+	</head>
+
+
+	<body>
+
+        <div id="Top">
+		<h1> gallery </h1>
+        
+        <img src="http://image.dcinside.com/viewimage.php?id=2fb3c3&no=24b0d769e1d32ca73fef82fa11d0283129ba536684310917258698f2c0e35c787bacc5059b7847061799ccf641e0531f17970f13a6f0f477f551dbf706f7319964d90214a9368e9d" width=400 height=800>
+         <img src="http://image.dcinside.com/viewimage.php?id=2fb3c3&no=24b0d769e1d32ca73fef82fa11d0283129ba536684310917258698f2c0e35c787bacc5059b7847061799ccf641e0531f17970f13a6f0f477f551dbf706f7319964d90214a9368e9d" width=400 height=800>
+        
+         <img src="http://image.dcinside.com/viewimage.php?id=2fb3c3&no=24b0d769e1d32ca73fef82fa11d0283129ba536684310917258698f2c0e35c787bacc5059b7847061799ccf641e0531f17970f13a6f0f477f551dbf706f7319964d90214a9368e9d" width=400 height=800>
+        
+        
+        
+        
+        	wellcome to visit my homepage
+        
+
+
+        
+      
+	</body>
+</html>
